@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #a45848; /* AliceBlue for a soft background */
+    color: #eaded2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #eaded2; /* MidnightBlue for a heading */
+    margin-bottom: 30px;
+}
+
+.app-card {
+    background-color: #eaded2;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.app-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.25);
+}
+
+.app-card h2 {
+    color: #a45848;
+    margin-top: 0;
+}
+
+.app-card p {
+    color: #777777;
+}
+
+.app-card a {
+    color: #a45848; /* Use a primary color like Blue for links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.app-card a:hover {
+    text-decoration: underline;
+    color: #8f4b3d; /* Darker shade of blue for link hover */
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My AI Web Apps</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>My AI Web Apps</h1>
+        {% for app in apps %}
+        <div class="app-card">
+            <h2>{{ app.name }}</h2>
+            <p>{{ app.description }}</p>
+            <a href="{{ app.url }}" target="_blank">Open App</a>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

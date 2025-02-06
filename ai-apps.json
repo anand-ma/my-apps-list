@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Multiple Choice Question Generator",
+        "description": "Generates Multiple Choice questions with answers and explanation",
+        "url": "https://kaelvi-gen.streamlit.app/"
+    },
+    {
+        "name": "Alien PDF Chat",
+        "description": "Ask Your Friendly Alien - PDF chat",
+        "url": "https://alienudan-oru-pdf-uraiyadal.streamlit.app"
+    },
+    {
+        "name": "Tweet Generator",
+        "description": "Generate Tweet on the topic given",
+        "url": "https://ai-tweet-gen.streamlit.app/"
+    }
+]
