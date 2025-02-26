@@ -48,5 +48,30 @@
         "name": "Laya Bot",
         "description": "A simple chat gpt replacement",
         "url": "https://laya-bot.streamlit.app/"
+    },
+    {
+        "name": "My AI apps List - nextjs",
+        "description": "List of my AI apps in one place",
+        "url": "https://my-ai-app-nextjs.vercel.app"
+    },
+    {
+        "name": "My AI Apps List - Python Version",
+        "description": "ALL My AI apps written in Python with some AI generation",
+        "url": "https://my-apps-list.vercel.app/"
+    },
+    {
+        "name": "City Explorer",
+        "description": "Given a city name, provides list of Top attractions, Generated using V0, Cursor, Co-Pilot",
+        "url": "https://city-explorer-nextjs.vercel.app/"
+    },
+    {
+        "name": "City Attractions",
+        "description": "Gives tourist attractions in a city. Built using Twitter's Grok3. Has cool theme Changer functionality",
+        "url": "https://city-attractions-grok.vercel.app/"
+    },
+    {
+        "name": "My AI apps List - nextjs - Netlify Hosted",
+        "description": "List of my AI apps in one place, hosted in Netlify",
+        "url": "https://my-ai-apps-list.netlify.app/"
     }
 ]
