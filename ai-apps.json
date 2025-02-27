@@ -65,7 +65,7 @@
         "url": "https://city-explorer-nextjs.vercel.app/"
     },
     {
-        "name": "City Attractions",
+        "name": "City Attractions Grok",
         "description": "Gives tourist attractions in a city. Built using Twitter's Grok3. Has cool theme Changer functionality",
         "url": "https://city-attractions-grok.vercel.app/"
     },
