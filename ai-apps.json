@@ -5,6 +5,11 @@
         "url": "https://kaelvi-gen.streamlit.app/"
     },
     {
+        "name": "Giuthub Agent",
+        "description": "Github Agent - Chat with your Github Repositories",
+        "url": "https://githup-agent.streamlit.app"
+    },
+    {
         "name": "Code Explorer",
         "description": "Input link of a single code file and get explaination in simple english, use cases for novices",
         "url": "https://code-explorer.streamlit.app/"
