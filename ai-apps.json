@@ -5,7 +5,7 @@
         "url": "https://kaelvi-gen.streamlit.app/"
     },
     {
-        "name": "Giuthub Agent",
+        "name": "Github Agent",
         "description": "Github Agent - Chat with your Github Repositories",
         "url": "https://githup-agent.streamlit.app"
     },
