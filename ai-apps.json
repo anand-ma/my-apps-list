@@ -10,6 +10,11 @@
         "url": "https://githup-agent.streamlit.app"
     },
     {
+        "name": "Travel Planner Agent",
+        "description": "An agent that helps you plan your travel itinerary",
+        "url": "https://travel-plan-agent.streamlit.app/"
+    },
+    {
         "name": "Code Explorer",
         "description": "Input link of a single code file and get explaination in simple english, use cases for novices",
         "url": "https://code-explorer.streamlit.app/"
