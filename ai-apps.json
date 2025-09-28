@@ -1,5 +1,10 @@
 [
     {
+        "name": "Accident Insurance Support",
+        "description": "Lets User upload photo of Vehicle when on accident to get help like towing, alert ambulance police using n8n, Langraph, hugging face, py torch",
+        "url": "https://hackathonoutskill.streamlit.app/"
+    },
+    {
         "name": "Multiple Choice Question Generator",
         "description": "Generates Multiple Choice questions with answers and explanation",
         "url": "https://kaelvi-gen.streamlit.app/"
