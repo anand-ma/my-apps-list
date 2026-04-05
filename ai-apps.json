@@ -1,5 +1,10 @@
 [
     {
+        "name": "Finance Portfolio App",
+        "description": "A unified finance portfolio app to track stocks, mutual funds, debt, gold, PF, and other investments in one place.",
+        "url": "https://my-portfolio-eight-opal-53.vercel.app"
+    },
+    {
         "name": "Accident Insurance Support",
         "description": "Lets User upload photo of Vehicle when on accident to get help like towing, alert ambulance police using n8n, Langraph, hugging face, py torch",
         "url": "https://hackathonoutskill.streamlit.app/"
